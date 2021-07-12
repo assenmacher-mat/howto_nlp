@@ -80,6 +80,7 @@ _(Please note that this document is subject to continuous change. Every time we 
 - [ ] https://github.com/tomohideshibata/BERT-related-papers (Exhaustive list of BERT related papers)
 - [ ] Booklet from our NLP seminar (summer semester 2020): https://compstat-lmu.github.io/seminar_nlp_ss20/ 
 - [ ] Summaries by Yannik Kilcher: https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew 
+- [ ] Course about ABSA from a student consulting project: https://lisa-wm.github.io/nlp-twitter-r-bert/ 
 
 
 ### 6. Software

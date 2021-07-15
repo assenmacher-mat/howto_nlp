@@ -1,10 +1,12 @@
 # Where to start in the NLP jungle?
 
-_(This document is intended for students either writing their (nlp-related) bachelor or master thesis or working on their (nlp-related) student consulting project under our supervision.)_
+__Disclaimer I:__ _This document is intended for students either writing their (nlp-related) bachelor or master thesis or working on their (nlp-related) student consulting project under our supervision._
+
+__Disclaimer II:__ _Please note that this document is subject to continuous change. Every time we find a new, nice source we will add it. Some stuff might also be deleted over time if not considered useful anymore._
 
 _Authors:_ [Matthias Aßenmacher](https://www.misoda.statistik.uni-muenchen.de/personen/mitarbeiter/assenmacher/index.html) // [Christian Heumann](https://www.misoda.statistik.uni-muenchen.de/personen/professoren/heumann/index.html)
 
-_(Please note that this document is subject to continuous change. Every time we find a new, nice source we will add it. Some stuff might also be deleted over time if not considered useful anymore.)_
+_Last change:_ 15-07-2021
 
 ## I. Set up all necessary communication channels
 

@@ -65,7 +65,7 @@ _Last change:_ 15-07-2021
 - __Alternative framework to word2vec__
      - [ ] Pennington, Jeffrey, Richard Socher, and Christopher Manning. ["Glove: Global vectors for word representation."](https://aclanthology.org/D14-1162.pdf) Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP). 2014.  
 - __Extending the embedding idea from word2vec to sentence/paragraph/document level__
-     - [ ] Le, Quoc, and Tomas Mikolov. "Distributed representations of sentences and documents." International conference on machine learning. 2014.  
+     - [ ] Le, Quoc, and Tomas Mikolov. ["Distributed representations of sentences and documents."](http://proceedings.mlr.press/v32/le14.pdf) International conference on machine learning. 2014.  
 - __Sequence-to-sequence models__
      - [ ] Sutskever, Ilya, Oriol Vinyals, and Quoc V. Le. ["Sequence to sequence learning with neural networks."](https://proceedings.neurips.cc/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf) Advances in neural information processing systems. 2014.
 - __Extending the embedding idea to subword tokens__

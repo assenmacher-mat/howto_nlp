@@ -87,7 +87,11 @@ _Last change:_ 15-07-2021
      - [ ] Sanh, Victor, et al. ["DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter."](https://arxiv.org/pdf/1910.01108.pdf?ref=hackernoon.com) arXiv preprint arXiv:1910.01108 (2019).
      - [ ] Clark, Kevin, et al. ["Electra: Pre-training text encoders as discriminators rather than generators."](https://arxiv.org/pdf/2003.10555.pdf%3C/p%3E) arXiv preprint arXiv:2003.10555 (2020).
      - [ ] Brown, Tom B., et al. ["Language models are few-shot learners."](https://arxiv.org/pdf/2005.14165.pdf) arXiv preprint arXiv:2005.14165 (2020).
-
+- __Heavily used benchmark data sets__ 
+     - [ ] Wang, Alex, et al. ["GLUE: A multi-task benchmark and analysis platform for natural language understanding."](https://arxiv.org/pdf/1804.07461.pdf) arXiv preprint arXiv:1804.07461 (2018).
+     - [ ] Wang, Alex, et al. ["Superglue: A stickier benchmark for general-purpose language understanding systems."](https://arxiv.org/pdf/1905.00537.pdf) arXiv preprint arXiv:1905.00537 (2019).
+     - [ ] Pranav Rajpurkar, et al. [SQuAD: 100,000+ questions for machine comprehension of text](https://aclanthology.org/D16-1264.pdf) Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing, pages 2383–2392, Austin, Texas. Association for Computational Linguistics.
+     - [ ] Pranav Rajpurkar, et al. [Know what you don’t know: Unanswerable questions for SQuAD](https://aclanthology.org/P18-2124.pdf) In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers), pages 784–789, Melbourne, Australia. 
 
 ### 5. Make use of the overwhelming offer of blogs, tutorials (or the internet in general): Here are some nice online resources
 
@@ -105,3 +109,5 @@ _Last change:_ 15-07-2021
 - [ ] https://github.com/huggingface/transformers
 - [ ] https://github.com/ThilinaRajapakse/simpletransformers (+ Doku: https://simpletransformers.ai/)
 - [ ] https://radimrehurek.com/gensim/
+- [ ] https://www.nltk.org/
+- [ ] https://spacy.io/

@@ -52,7 +52,9 @@ _Last change:_ 15-07-2021
 - [ ] Or more basic: [Intro to Statistical learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
 - [ ] Internal teaching resources (LMU):
      - [ ] Our lecture from WS 20/21: https://moodle.lmu.de/course/view.php?id=10268 
+     - [ ] Same lecture, slightly updated (WS 21/22): https://moodle.lmu.de/course/view.php?id=17645
      - [ ] Booklet from our NLP seminar (summer semester 2020): https://compstat-lmu.github.io/seminar_nlp_ss20/ 
+     - [ ] (Exemples of) Supervised theses: https://www.misoda.statistik.uni-muenchen.de/studium_lehre/theses_old/index.html
      - [ ] Course about ABSA from a student consulting project: https://lisa-wm.github.io/nlp-twitter-r-bert/ 
 
 ### 4. Milestone papers:
@@ -92,6 +94,8 @@ _Last change:_ 15-07-2021
      - [ ] Wang, Alex, et al. ["Superglue: A stickier benchmark for general-purpose language understanding systems."](https://arxiv.org/pdf/1905.00537.pdf) arXiv preprint arXiv:1905.00537 (2019).
      - [ ] Pranav Rajpurkar, et al. [SQuAD: 100,000+ questions for machine comprehension of text](https://aclanthology.org/D16-1264.pdf) Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing, pages 2383–2392, Austin, Texas. Association for Computational Linguistics.
      - [ ] Pranav Rajpurkar, et al. [Know what you don’t know: Unanswerable questions for SQuAD](https://aclanthology.org/P18-2124.pdf) In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers), pages 784–789, Melbourne, Australia. 
+- __Zero-/Few-Shot Learning__ _TO DO_
+- __Prompting/Prompt-Engineering__ _TO DO_
 
 ### 5. Make use of the overwhelming offer of blogs, tutorials (or the internet in general): Here are some nice online resources
 

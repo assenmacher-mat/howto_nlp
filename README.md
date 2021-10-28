@@ -22,7 +22,7 @@ _Last change:_ 15-07-2021
      Dates for 2021: 
      - [x] 26.03. at 13h s.t.
      - [x] 25.06. at 13h s.t.
-     - [ ] 15.10. at 13h s.t.
+     - [x] 15.10. at 13h s.t.
      - [ ] 17.12. at 13h s.t.
 - [ ] The mailing list will be mostly used for announcements, while in the Mattermost channel we will occasionally also post (nlp-related) stuff we consider interesting.
 - [ ] TALK TO US rather sooner than later if any problems occur which you are not able to solve on your own. Open (and timely) communication is (in our opinion) key to a successful supervision/cooperation during theses or consulting projects.

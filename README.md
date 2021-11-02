@@ -6,7 +6,7 @@ __Disclaimer II:__ _Please note that this document is subject to continuous chan
 
 _Authors:_ [Matthias Aßenmacher](https://www.misoda.statistik.uni-muenchen.de/personen/mitarbeiter/assenmacher/index.html) // [Christian Heumann](https://www.misoda.statistik.uni-muenchen.de/personen/professoren/heumann/index.html)
 
-_Last change:_ 15-07-2021
+_Last change:_ 02-11-2021
 
 ## I. Set up all necessary communication channels
 
@@ -53,7 +53,7 @@ _Last change:_ 15-07-2021
 - [ ] Internal teaching resources (LMU):
      - [ ] Our lecture from WS 20/21: https://moodle.lmu.de/course/view.php?id=10268 
      - [ ] Same lecture, slightly updated (WS 21/22): https://moodle.lmu.de/course/view.php?id=17645
-     - [ ] Booklet from our NLP seminar (summer semester 2020): https://compstat-lmu.github.io/seminar_nlp_ss20/ 
+     - [ ] Booklet from our NLP seminar (summer semester 2020): https://slds-lmu.github.io/seminar_nlp_ss20/ 
      - [ ] (Exemples of) Supervised theses: https://www.misoda.statistik.uni-muenchen.de/studium_lehre/theses_old/index.html
      - [ ] Course about ABSA from a student consulting project: https://lisa-wm.github.io/nlp-twitter-r-bert/ 
 

@@ -50,6 +50,7 @@ _Last change:_ 02-11-2021
 - [ ] Good overview on Embeddings: [Pilehvar & Camacho-Collados (2021)](https://sites.google.com/view/embeddings-in-nlp)
 - [ ] Overview on DL in general: [Deep Learning book](https://www.deeplearningbook.org/)
 - [ ] Or more basic: [Intro to Statistical learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
+- [ ] [Hugging Face Transformer course](https://huggingface.co/course/chapter0/1?fw=pt)
 - [ ] Internal teaching resources (LMU):
      - [ ] Our lecture from WS 20/21: https://moodle.lmu.de/course/view.php?id=10268 
      - [ ] Same lecture, slightly updated (WS 21/22): https://moodle.lmu.de/course/view.php?id=17645

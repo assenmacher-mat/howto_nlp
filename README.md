@@ -6,6 +6,8 @@ __Disclaimer II:__ _Please note that this document is subject to continuous chan
 
 _Authors:_ [Matthias Aßenmacher](https://www.misoda.statistik.uni-muenchen.de/personen/mitarbeiter/assenmacher/index.html) // [Christian Heumann](https://www.misoda.statistik.uni-muenchen.de/personen/professoren/heumann/index.html)
 
+_Note:_ Most important resources are marked by a :warning:
+
 _Last change:_ 02-11-2021
 
 ## I. Set up all necessary communication channels

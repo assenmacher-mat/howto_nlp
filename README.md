@@ -8,7 +8,7 @@ _Authors:_ [Matthias Aßenmacher](https://www.misoda.statistik.uni-muenchen.de/p
 
 _Note:_ Most important resources are marked by a :warning:
 
-_Last change:_ 02-11-2021
+_Last change:_ 03-03-2022
 
 ## I. Set up all necessary communication channels
 
@@ -22,10 +22,10 @@ _Last change:_ 02-11-2021
 - [ ] We will have a so-called “NLP Colloquium” every now and then (intended 4 times a year) where all of our BA-/MA-/Consulting- students present their work to the others. This meeting is of rather informal character (mostly intended to connect you to each other), so no need for high-gloss slides, or anything like that. Everything like jupyter notebooks/interesting figures/slides is fine.  
      We will announce this via the mailing list and via Mattermost.  
      Dates for 2021: 
-     - [x] 26.03. at 13h s.t.
-     - [x] 25.06. at 13h s.t.
-     - [x] 15.10. at 13h s.t.
-     - [ ] 17.12. at 13h s.t.
+     - [ ] 01.04. at 13h s.t.
+     - [ ] 01.07. at 13h s.t.
+     - [ ] 14.10. at 13h s.t.
+     - [ ] 16.12. at 13h s.t.
 - [ ] The mailing list will be mostly used for announcements, while in the Mattermost channel we will occasionally also post (nlp-related) stuff we consider interesting.
 - [ ] TALK TO US rather sooner than later if any problems occur which you are not able to solve on your own. Open (and timely) communication is (in our opinion) key to a successful supervision/cooperation during theses or consulting projects.
 
@@ -51,7 +51,7 @@ _Last change:_ 02-11-2021
 - [ ] Pretty nice book for an a broad overview on everything until self-attention, useful for covering the basics: [Goldberg (2017)](https://github.com/Michael2Tang/ML_Doc/blob/master/Neural%20Network%20Methods%20in%20Natural%20Language%20Processing-Morgan%20%26%20Claypool%20Publishers%20(2017)%20-%20Yoav%20Goldberg%2C%20Graeme%20Hirst.pdf)
 - [ ] Good overview on Embeddings: [Pilehvar & Camacho-Collados (2021)](https://sites.google.com/view/embeddings-in-nlp)
 - [ ] Overview on DL in general: [Deep Learning book](https://www.deeplearningbook.org/)
-- [ ] Or more basic: [Intro to Statistical learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
+- [ ] Or more basic: [Intro to Statistical learning](https://www.statlearning.com/)
 - [ ] :warning: [Hugging Face Transformer course](https://huggingface.co/course/chapter0/1?fw=pt) :warning:
 - [ ] Internal teaching resources (LMU):
      - [ ] Our lecture from WS 20/21: https://moodle.lmu.de/course/view.php?id=10268 

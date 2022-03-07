@@ -95,10 +95,15 @@ _Last change:_ 03-03-2022
 - __Heavily used benchmark data sets__ 
      - [ ] Wang, Alex, et al. ["GLUE: A multi-task benchmark and analysis platform for natural language understanding."](https://arxiv.org/pdf/1804.07461.pdf) arXiv preprint arXiv:1804.07461 (2018).
      - [ ] Wang, Alex, et al. ["Superglue: A stickier benchmark for general-purpose language understanding systems."](https://arxiv.org/pdf/1905.00537.pdf) arXiv preprint arXiv:1905.00537 (2019).
-     - [ ] Pranav Rajpurkar, et al. [SQuAD: 100,000+ questions for machine comprehension of text](https://aclanthology.org/D16-1264.pdf) Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing, pages 2383–2392, Austin, Texas. Association for Computational Linguistics.
-     - [ ] Pranav Rajpurkar, et al. [Know what you don’t know: Unanswerable questions for SQuAD](https://aclanthology.org/P18-2124.pdf) In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers), pages 784–789, Melbourne, Australia. 
+     - [ ] Pranav Rajpurkar, et al. ["SQuAD: 100,000+ questions for machine comprehension of text"](https://aclanthology.org/D16-1264.pdf) Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing, pages 2383–2392, Austin, Texas. Association for Computational Linguistics.
+     - [ ] Pranav Rajpurkar, et al. ["Know what you don’t know: Unanswerable questions for SQuAD"](https://aclanthology.org/P18-2124.pdf) In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers), pages 784–789, Melbourne, Australia. 
 - __Zero-/Few-Shot Learning__ _TO DO_
-- __Prompting/Prompt-Engineering__ _TO DO_
+     - [ ] Brown, Tom B., et al. ["Language models are few-shot learners."](https://arxiv.org/pdf/2005.14165.pdf) arXiv preprint arXiv:2005.14165 (2020).
+     - [ ] Schick, Timo, and Hinrich Schütze. ["It's not just size that matters: Small language models are also few-shot learners."](https://arxiv.org/pdf/2009.07118.pdf) arXiv preprint arXiv:2009.07118 (2020).
+- __Prompting/Prompt-Engineering__ 
+     - [ ] Liu, Pengfei, et al. ["Pre-train, prompt, and predict: A systematic survey of prompting methods in natural language processing."](http://pretrain.nlpedia.ai/) arXiv preprint arXiv:2107.13586 (2021).
+     - [ ] Wei, Jason, et al. ["Finetuned language models are zero-shot learners."](https://arxiv.org/pdf/2109.01652.pdf) arXiv preprint arXiv:2109.01652 (2021).
+     - [ ] Lester, Brian, et al. ["The Power of Scale for Parameter-Efficient Prompt Tuning"](https://aclanthology.org/2021.emnlp-main.243.pdf) In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing, pages 3045–3059, Online and Punta Cana, Dominican Republic. Association for Computational Linguistics.
 
 ### 5. Make use of the overwhelming offer of blogs, tutorials (or the internet in general): Here are some nice online resources
 

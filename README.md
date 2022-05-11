@@ -109,6 +109,10 @@ _Last change:_ 03-03-2022
 
 - [ ] https://github.com/ivan-bilan/The-NLP-Pandect (Exhaustive overview on basically everything)
 - [ ] https://mccormickml.com/ (+ https://www.youtube.com/channel/UCoRX98PLOsaN8PtekB9kWrw)
+- [ ] https://openai.com/blog/
+- [ ] https://www.deepmind.com/blog
+- [ ] https://syncedreview.com/
+- [ ] https://thegradient.pub/
 - [ ] https://jalammar.github.io/ (+ https://www.youtube.com/channel/UCmOwsoHty5PrmE-3QhUBfPQ) 
 - [ ] https://ruder.io/nlp-news/ (+ his thesis: https://ruder.io/thesis/neural_transfer_learning_for_nlp.pdf)
 - [ ] https://dair.ai/ (pretty nice blog)

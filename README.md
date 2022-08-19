@@ -21,10 +21,10 @@ _Last change:_ 03-03-2022
       (Nevertheless this is not mandadory; we just think it helps you to (i) get started and (ii) stay on track)
 - [ ] We will have a so-called “NLP Colloquium” every now and then (intended 4 times a year) where all of our BA-/MA-/Consulting- students present their work to the others. This meeting is of rather informal character (mostly intended to connect you to each other), so no need for high-gloss slides, or anything like that. Everything like jupyter notebooks/interesting figures/slides is fine.  
      We will announce this via the mailing list and via Mattermost.  
-     Dates for 2021: 
-     - [ ] 01.04. at 13h s.t.
-     - [ ] 01.07. at 13h s.t.
-     - [ ] 14.10. at 13h s.t.
+     Dates for 2022: 
+     - [x] 01.04. at 13h s.t.
+     - [x] 01.07. at 13h s.t.
+     - [ ] 21.10. at 14h s.t.
      - [ ] 16.12. at 13h s.t.
 - [ ] The mailing list will be mostly used for announcements, while in the Mattermost channel we will occasionally also post (nlp-related) stuff we consider interesting.
 - [ ] TALK TO US rather sooner than later if any problems occur which you are not able to solve on your own. Open (and timely) communication is (in our opinion) key to a successful supervision/cooperation during theses or consulting projects.

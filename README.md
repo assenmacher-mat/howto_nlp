@@ -82,9 +82,9 @@ _Last change:_ 03-03-2022
      - [ ] Vaswani, Ashish, et al. ["Attention is all you need."](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) Advances in neural information processing systems. 2017.  
 - __Some of the most famous models that learn (a) contextualized embeddings and (b) can be used for transfer learning__
      - [ ] Radford, Alec, et al. ["Improving language understanding by generative pre-training."](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf) pdf (2018).
-     - [ ] Peters, Matthew E., et al. "Deep contextualized word representations." arXiv preprint arXiv:1802.05365 (2018).
+     - [ ] Peters, Matthew E., et al. ["Deep contextualized word representations."](https://aclanthology.org/N18-1202.pdf) arXiv preprint arXiv:1802.05365 (2018).
      - [ ] Devlin, Jacob, et al. ["Bert: Pre-training of deep bidirectional transformers for language understanding."](https://aclanthology.org/N19-1423.pdf) Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers).
-     - [ ] Radford, Alec, et al. ["Language models are unsupervised multitask learners."](http://www.persagen.com/files/misc/radford2019language.pdf) OpenAI Blog 1.8 (2019).
+     - [ ] Radford, Alec, et al. ["Language models are unsupervised multitask learners."](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) OpenAI Blog 1.8 (2019).
      - [ ] Yang, Zhilin, et al. ["XLNet: Generalized Autoregressive Pretraining for Language Understanding."](https://proceedings.neurips.cc/paper/2019/file/dc6a7e655d7e5840e66733e9ee67cc69-Paper.pdf) Advances in neural information processing systems 32 (2019).
      - [ ] Liu, Yinhan, et al. ["RoBERTa: A Robustly Optimized BERT Pretraining Approach."](https://arxiv.org/pdf/1907.11692.pdf) arXiv preprint arXiv:1907.11692 (2019).
      - [ ] Lan, Zhenzhong, et al. ["Albert: A lite bert for self-supervised learning of language representations."](https://arxiv.org/pdf/1909.11942.pdf) arXiv preprint arXiv:1909.11942 (2019).
